@@ -1,14 +1,14 @@
-layout_spectrum: 0.5666840600315481
-typography_spectrum: 0.3744551062118262
+layout_spectrum: 0.639311233535409
+typography_spectrum: 0.7939958048518747
 color:
-  brandStrength: 0.501727863913402
-  lightness: 0.19112421246245503
-  saturation: 0.96552245458588
-  rhythmicContrast: 0.2904819119721651
+  brandStrength: 0.8352111475542188
+  lightness: 0.9659910551272333
+  saturation: 0.9962849000003189
+  rhythmicContrast: 0.13745729415677488
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: immaculate surprise
